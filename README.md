@@ -33,7 +33,6 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ![walkthrough](https://user-images.githubusercontent.com/98725619/193487360-75491f56-c4ad-420e-8e89-089b226b2133.gif)
 
 
